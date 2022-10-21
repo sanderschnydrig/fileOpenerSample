@@ -1,0 +1,6 @@
+{
+	"appId": "com.example.app",
+	"appName": "sampleFileOpener",
+	"webDir": "dist/sample-file-opener",
+	"bundledWebRuntime": false
+}
